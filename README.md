@@ -1,6 +1,6 @@
 # Crime-Information-Management-System
 
-This project is developed by Manoj Tryambak
+This project is developed by me
 
 
 ## About
